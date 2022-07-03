@@ -54,4 +54,4 @@
   defaultBranch = master
 [user]
 	email = bartkevicius.dziugas@gmail.com
-	name = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	name = Dziugas Bartkevicius
